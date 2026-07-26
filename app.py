@@ -300,7 +300,7 @@ st.sidebar.markdown("""
 
 <h3>👤 Created By</h3>
 
-<h2>Ravi Kumar Singh</h2>
+<h2>REEM FAYYAZ</h2>
 
 <p>Machine Learning Enthusiast</p>
 
@@ -318,7 +318,7 @@ st.markdown(
     </div>
 
     <div class="creator">
-        Created By Ravi Kumar Singh
+        Created By REEM FAYYAZ
     </div>
 
     <div class="divider">
@@ -558,7 +558,7 @@ st.markdown("""
 </h4>
 
 <h4 style="color:#6f38ff;">
-Created By Ravi Kumar Singh
+Created By REEM FAYYAZ
 </h4>
 
 <p style="font-size:17px;color:gray;">
@@ -630,7 +630,7 @@ CAR PRICE PREDICTION REPORT
 
 ====================================
 
-Created By : Ravi Kumar Singh
+Created By : REEM FAYYAZ
 
 ------------------------------------
 
